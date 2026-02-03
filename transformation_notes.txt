@@ -1,0 +1,5 @@
+- Removed unwanted columns
+- Fixed missing values
+- Corrected datatypes
+- Created Age_Group and Salary_Band
+- Built attrition analysis visuals
